@@ -21,22 +21,25 @@ Some issues:
 * Can only play ".wav" audio files
 * Shuffle sometimes misbehaves
 * Code gives error sometimes
+* This is my first big project so it may not perform as expected but I'll keep updating it
 
-The sode is given below (Create instance of MyFrame in Main class and run Main class):
+Note: * You can contact me on telegram at @SOUL_AYU if you have any querry related code.
+      * I'll keep updated the code and make it awesome.
 
-import java.awt.*;
-import java.awt.event.*;
-import java.io.*;
-import java.nio.file.*;
-import java.util.*;
-import java.util.Timer;
-import java.util.stream.Stream;
-import javax.sound.sampled.*;
-import javax.swing.*;
-import javax.swing.filechooser.FileNameExtensionFilter;
+The code is given below (Create instance of MyFrame in Main class and run Main class):
 
-public class MyFrame extends JFrame implements ActionListener, MouseMotionListener{
+	import java.awt.*;
+	import java.awt.event.*;
+	import java.io.*;
+	import java.nio.file.*;
+	import java.util.*;
+	import java.util.Timer;
+	import java.util.stream.Stream;
+	import javax.sound.sampled.*;
+	import javax.swing.*;
+	import javax.swing.filechooser.FileNameExtensionFilter;
 
+	public class MyFrame extends JFrame implements ActionListener, MouseMotionListener{
 	Timer timer;
 	int secCounter=0;
 	
