@@ -23,7 +23,7 @@ Some issues:
 * Code gives error sometimes
 * This is my first big project so it may not perform as expected but I'll keep updating it
 
-Note: * You can contact me on telegram at @SOUL_AYU if you have any querry related code.
+Note: * You can contact me on telegram at @SOUL_AYU if you have any query related code.
 
 
 The code is given below (Create instance of MyFrame in Main class and run Main class):
